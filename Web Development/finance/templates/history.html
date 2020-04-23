@@ -1,0 +1,31 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    History
+{% endblock %}
+
+{% block main %}
+    <h4 class="table-title">Transactions</h4>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                {% for key in rows[0] %}
+                    <td>{{ key }}</td>
+                {% endfor %}
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in rows %}
+                <tr>
+                    {% for column in row %}
+                        {% if column == 'stock_name' or column == 'date' %}
+                            <td style="margin: 0 100px;">{{ row[column] }}</td>
+                        {% else %}
+                            <td>{{ row[column] }}</td>
+                        {% endif %}
+                    {% endfor %}
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}
