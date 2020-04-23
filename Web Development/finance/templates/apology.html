@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Apology
+{% endblock %}
+
+{% block main %}
+    <div id="img"></div>
+    <script>
+        var img;
+        var no = Math.floor(Math.random() * 2);
+        if (no == 1){
+            img = "N4GSgOO.jpeg"
+        } else {
+            img = "CsCgN7Ll.png"
+        }
+        document.querySelector("#img").innerHTML = '<img alt="{{ top }}" class="border" src="http://memegen.link/custom/{{ top | urlencode }}/{{ bottom | urlencode }}.jpg?alt=https://i.imgur.com/' + img + '" title="{{ top }}">';
+    </script>
+{% endblock %}
