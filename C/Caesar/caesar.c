@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <cs50.h>
+#include <cs50.c>
 #include <string.h>
 #include <ctype.h>
 
@@ -19,7 +19,7 @@ int main(int argc, string argv[])
         //changing the argv[1] string into an integer variable
         int k = atoi(argv[1]);
         //getting plaintext
-        string plain = get_string("plaintext: ");
+        string plain = get_string(NULL, "plaintext: ");
         for (int i = 0, n = strlen(plain); i < n; i++)
         {
             //is the current letter an alphabet
