@@ -1,5 +1,5 @@
 # C
-### Listed by complexity:
+## Listed by complexity:
 1. Caesar
 1. Greedy Algorithm
 1. Mario

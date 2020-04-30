@@ -4,7 +4,7 @@ Caesar’s algorithm (i.e., cipher) encrypts messages by “rotating” each let
 ci = (pi + k) % 26
 ```
 
-## Functionality
+## Usage
 This program takes in the key, a number of characters to shift, as a second argument and the asks the user for a plain text- returning a cipher text using the given key.
 ```
 $ ./caesar 13
