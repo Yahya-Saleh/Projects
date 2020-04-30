@@ -1,5 +1,6 @@
 # C
 ## Listed by complexity:
+1. Vigenere
 1. Caesar
 1. Greedy Algorithm
 1. Mario
