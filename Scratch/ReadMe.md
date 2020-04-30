@@ -1,1 +1,2 @@
+# Flying Cat
 the player controls the flying cat trying to dodge the buildings. the cat can move in all directions. If the cat hits a building the ouch counter gets iterated by 1. As time progresses the game gets more difficult.

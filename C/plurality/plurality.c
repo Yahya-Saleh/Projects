@@ -1,4 +1,4 @@
-#include <cs50.h>
+#include <cs50.c>
 #include <stdio.h>
 #include <string.h>
 
@@ -50,9 +50,9 @@ int main(int argc, string argv[])
     // Loop over all voters
     for (int i = 0; i < voter_count; i++)
     {
-        string name = get_string("Vote: ");
+        string name = get_string(NULL, "Vote: ");
 
-        // Check for invalid vote
+        // Check for invalid vote, and if it's not then add it to the candidate
         if (!vote(name))
         {
             printf("Invalid vote.\n");
@@ -61,6 +61,7 @@ int main(int argc, string argv[])
 
     // Display winner of election
     print_winner();
+    return 0;
 }
 
 // Update vote totals given a new vote
@@ -82,6 +83,7 @@ void print_winner(void)
 {
     int win_num = 0;
 
+    //getting the hightest number of votes
     for (int i = 0; i < candidate_count; i++)
     {
         if (candidates[i].votes > win_num)
@@ -90,6 +92,8 @@ void print_winner(void)
         }
     }
 
+    //printing out all the winning candidates
+    printf("\nThe following candidate(s) won:\n");
     for (int i = 0; i < candidate_count; i++)
     {
         if (win_num == candidates[i].votes)
