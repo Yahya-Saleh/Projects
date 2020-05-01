@@ -32,6 +32,7 @@ void record_preferences(int ranks[]);
 void add_pairs(void);
 void sort_pairs(void);
 void lock_pairs(void);
+bool cycle(int frm, int to);
 void print_winner(void);
 
 int main(int argc, string argv[])
@@ -50,6 +51,8 @@ int main(int argc, string argv[])
         printf("Maximum number of candidates is %i\n", MAX);
         return 2;
     }
+
+    // Adding candidate names
     for (int i = 0; i < candidate_count; i++)
     {
         candidates[i] = argv[i + 1];
@@ -76,7 +79,7 @@ int main(int argc, string argv[])
         // Query for each rank
         for (int j = 0; j < candidate_count; j++)
         {
-            string name = get_string("Rank %i: ", j + 1);
+            string name = get_string(NULL, "Rank %i: ", j + 1);
 
             if (!vote(j, name, ranks))
             {
@@ -169,6 +172,7 @@ void sort_pairs(void)
     //sort the pairs using the margin
     for (int i = 0; i < pair_count; i++)
     {
+        //j = i + 1 to not iterate over useless spaces
         for (int j = i + 1; j < pair_count; j++)
         {
             //if jth margin is greater than the ith swap them
@@ -191,35 +195,33 @@ void lock_pairs(void)
 {
     for (int i = 0; i < pair_count; i++)
     {
-        //this loop permits us to add an edge if one other candidate isn't pointing at anything
-        //since 2 candidates can't point at the same person
-        for (int j = 0; j < candidate_count; j++)
+        // If can go the other way around then a cycle exists
+        // A -> B
+        if (!cycle(pairs[i].loser, pairs[i].winner))
         {
-            bool cycle = false;
-
-            //if j isn't the winner's index, because the candidate can point at more than one person without creating a cycle
-            if (j != pairs[i].winner)
-            {
-                for (int k = 0; k < candidate_count; k++)
-                {
-                    //if indeed the kth candidate is pointing at someone then we don't add the edge until we find one that doesn't
-                    if (locked[j][k])
-                    {
-                        cycle = true;
-                        break;
-                    }
-                }
-                //if we get out of the k loop and cycle is still false then we add the edge
-                if (!cycle)
-                {
-                    locked[pairs[i].winner][pairs[i].loser] = true;
-                    break;
-                }
-            }
+            locked[pairs[i].winner][pairs[i].loser] = true;
         }
     }
 }
+// Checks for cycles
+bool cycle(int frm, int to)
+{
+    // Base case: if the loop gets back to to
+    if (frm == to)
+    {
+        return true;
+    }
+    // For every candidate, can we go from B through it and back to A?
+    for (int i = 0; i < candidate_count; i++)
+    {
+        if (locked[frm][i])
+        {
+            return cycle(i, to);
+        }
+    }
 
+    return false;
+}
 // Print the winner of the election
 void print_winner(void)
 {
@@ -229,17 +231,20 @@ void print_winner(void)
 
         for (int j = 0; j < candidate_count; j++)
         {
-            if (locked[j][i])
+            if (i == j)
+            {
+                continue;
+            }
+            else if (locked[j][i])
             {
                 pointed_at = true;
+                break;
             }
         }
 
-        if (pointed_at == false)
+        if (!pointed_at)
         {
             printf("%s\n", candidates[i]);
         }
     }
-
 }
-

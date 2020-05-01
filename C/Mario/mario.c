@@ -25,7 +25,7 @@ int main(void)
         hash(i);
         
         //a space saperating the right and left pyramid
-        printf(" ");
+        printf("  ");
         
         //printing the hashes of the right pyramid
         hash(i);
