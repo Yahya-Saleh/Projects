@@ -1,4 +1,4 @@
-// Copies a BMP file
+// Solves the clue mystery
 
 #include <stdio.h>
 #include <stdlib.h>

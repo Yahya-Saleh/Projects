@@ -58,6 +58,7 @@ int main(int argc, char *argv[])
                 if (n != 512)
                 {
                     free(pbuffer);
+                    //success
                     return 0;
                 }
             }
