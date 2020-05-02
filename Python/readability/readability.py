@@ -39,4 +39,5 @@ def calc(l, s, w):
 
 
 # start
-main()
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,2 @@
+# Mario
+ Much like the mario in the C projects, This project Recreates the double pyramids in the mario game using # with a height specified by the user between 1 and 8 inclusive. However, since its done in python it requires advanced understanding of the print function.

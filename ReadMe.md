@@ -1,5 +1,7 @@
 # Projects
  A variety of functional, fun, and effective projects that i have developed through my courses and on my own:
+ 
+1. Scratch
 1. C
 1. python
 1. SQL

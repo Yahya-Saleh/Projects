@@ -5,12 +5,12 @@ while True:
     if height > 0 and height < 9:
         break
 
-for i in range(height):
+for i in range(1, height + 1):
     # first half
-    print(" " * (height - (i + 1)), end="")
-    print("#" * (i + 1), end="")
+    print(" " * (height - (i)), end="")
+    print("#" * (i), end="")
 
     print("  ", end="")
 
-    # seconf half
-    print("#" * (i + 1))
+    # second half
+    print("#" * (i))

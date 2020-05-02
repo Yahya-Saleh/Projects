@@ -56,4 +56,5 @@ def valid(num):
 
 
 # start of the program
-main()
+if __name__ == "__main__":
+    main()
