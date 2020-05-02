@@ -1,7 +1,7 @@
 # Python
- 
+ A variety of highly integrated programs that leverages the power of Python and its many modules. The list include data handling and analysis along with machine learning, AI, and much more
 
-## listed by complexity
+## Listed by complexity
 
 1. WhatsAppAutomation
 1. DNA
