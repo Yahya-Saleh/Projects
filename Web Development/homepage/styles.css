@@ -38,7 +38,7 @@ li a:hover {
 }
 
 .black{
-    background-image: url("/images/black.jpg");
+    background-image: url("images/black.jpg");
     color: white;
 }
 
