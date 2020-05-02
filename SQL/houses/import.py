@@ -24,8 +24,10 @@ with open(argv[1]) as file:
         if len(name) == 2:
             name.insert(1, None)
 
-        # we insert the data into the table in the db
-        db.execute("INSERT INTO students (first, middle, last, house, birth) VALUES (?, ?, ?, ?, ?)",
-                   name[0], name[1], name[2], row["house"], row["birth"])
+        # Insert if the column doesn't exist
+        if not db.execute("SELECT first FROM students WHERE first=?;", name[0]):
+            # we insert the data into the table in the db
+            db.execute("INSERT INTO students (first, middle, last, house, birth) VALUES (?, ?, ?, ?, ?);",
+                    name[0], name[1], name[2], row["house"], row["birth"])
 
 exit(0)
