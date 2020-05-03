@@ -46,12 +46,12 @@ if not os.environ.get("API_KEY"):
 def index():
     """Show portfolio of stocks"""
     rows = db.execute("SELECT * FROM stocks WHERE user_id=? ORDER BY stock_name", session["user_id"])
-    #start the total by adding the user's current cash
+    # start the total by adding the user's current cash
     total = session["cash"]
 
-    #for every stock
+    # for every stock
     for row in rows:
-        #remove what we don't want to display
+        # remove what we don't want to display
         del row["user_id"]
         del row["stock_id"]
 
@@ -273,3 +273,6 @@ def errorhandler(e):
 # Listen for errors
 for code in default_exceptions:
     app.errorhandler(code)(errorhandler)
+
+if __name__ == "__main__":
+    app.run()

@@ -12,3 +12,6 @@ def bye():
     if not name:
         return render_template("failure.html")
     return render_template("hello.html", name=name)
+
+if __name__ == "__main__":
+    app.run()

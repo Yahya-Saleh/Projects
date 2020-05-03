@@ -24,3 +24,6 @@ def add():
         session["todos"].append(todo)
         #probably because we already rendered it
         return redirect("/")
+
+if __name__ == "__main__":
+    app.run()

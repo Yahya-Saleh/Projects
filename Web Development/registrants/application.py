@@ -23,3 +23,6 @@ def register():
     #could also be done in this way: (:name, :email);", name=name, email=email)
     db.execute("INSERT INTO reg (name, email) VALUES (?, ?);", name, email)
     return redirect("/")
+
+if __name__ == "__main__":
+    app.run()
