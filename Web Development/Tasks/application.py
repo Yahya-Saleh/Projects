@@ -14,7 +14,7 @@ def tasks():
     if "todos" not in session:
         session["todos"] = []
     return render_template("tasks.html", todos=session["todos"])
-
+ 
 @app.route("/add", methods=["GET", "POST"])
 def add():
     if request.method == "GET":
