@@ -62,6 +62,8 @@ class Employee:
 
     def __len__(self):
         return len(self.fullname())
+
+
 # Sub-Class of Employee
 class Developer(Employee):
     # Developers have their own raise_amount
@@ -75,6 +77,7 @@ class Developer(Employee):
         # Employee.__init__(self, first, last, pay)
 
         self.prog_lang = prog_lang
+
 
 class Manager(Employee):
     # you never want to pass in mutable data types like lists or dicts as default data types
