@@ -6,7 +6,7 @@ A python based Graphical user interface That sends specified text message or att
 
 If an excel file is passed to the first input section the program extracts the names and numbers column filtering all null or invalid contacts and reporting the time it took to analyze and the invalid contacts found if any. If a number is passed, however, the user gets asked to enter that number's owner.
 
-![excel file or number input field](statics\excel_file_or_number_input_field.png)
+![excel file or number input field](Projects\Python\Projects\Whatsapp_Automation\statics/excel_file_or_number_input_field.png)
 
 ## Message
 
