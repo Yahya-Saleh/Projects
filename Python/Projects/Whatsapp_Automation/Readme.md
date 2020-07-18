@@ -6,11 +6,11 @@ A python based Graphical user interface That sends specified text message or att
 
 If an excel file is passed to the first input section the program extracts the names and numbers column filtering all null or invalid contacts and reporting the time it took to analyze and the invalid contacts found if any. If a number is passed, however, the user gets asked to enter that number's owner.
 
-![excel file or number input field](\snippets/excel_file_or_number_input_field.png)
+<img src="snippets/excel_file_or_number_input_field.png"/>
 
 ## Message
 
-For each message the user picks between a text message or an attachment and how many times to repeat it, with some keywords available for text:
+For each message the user specifies if it is a text message or an attachment and how many times to repeat it. Hot keys are available for text messages:
 
 ```text
 The following keywords will be replaced in the message:
@@ -35,4 +35,4 @@ The first message would require the user to scan a QR code, but the program then
 
 After the process is completed, a report is generated which includes the time taken for contact processing, and by selenium as well as any failed attempts.
 
-![report](\snippets/3.report.png)
+<img src="snippets/3.report.png"/>
