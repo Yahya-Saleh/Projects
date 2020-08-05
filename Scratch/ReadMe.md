@@ -6,9 +6,9 @@ A simple game developed by [MIT's Scratch](https://scratch.mit.edu/). This proje
 
 ## About the game
 
-The player controls the flying cat trying to dodge the buildings. the cat can move in all directions. If the cat hits a building the ouch counter gets iterated by 1. As time progresses the game gets more difficult.
-
 ![scratch game play](Snippets/../../Snippets/Scratch/scratch%20game%20play.gif)
+
+The player controls the flying cat trying to dodge the buildings. the cat can move in all directions. If the cat hits a building the ouch counter gets iterated by 1. As time progresses the game gets more difficult.
 
 ## How can I play
 
