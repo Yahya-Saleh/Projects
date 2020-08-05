@@ -14,14 +14,14 @@
 
 ### Ubuntu
 
-```
+```bash
 $ curl -s https://packagecloud.io/install/repositories/cs50/repo/script.deb.sh | sudo bash
 $ sudo apt-get install libcs50
 ```
 
 ### Fedora
 
-```
+```bash
 $ curl -s https://packagecloud.io/install/repositories/cs50/repo/script.rpm.sh | sudo bash
 $ yum install libcs50
 ```

@@ -1,7 +1,20 @@
-# C
- A list of complex C programs that implements algorithms, and solve problems with high functionality. those programs implement the basics of C all the way to libraries, pointers and data structures, like tries, making use of dynamic memory and static memory, along side memory handling. When developing my code as you will note- speed and efficiency are maximized.
+# C programming
 
-## Listed by complexity:
+this file includes an array of complex C programs that implements algorithms, and solve problems with high functionality. those programs will include, among other things, concepts like the following:
+
+- command-line arguments.
+- pointers.
+- data structures (single and double linked lists, hash tables, and tries).
+- dynamic and static memory allocation.
+  
+When developing my code as you will note: speed and efficiency are maximized!
+
+![speller](../Snippets/C/speller/Speller.png)
+
+## Listed by complexity
+
+The following is a list of all the programs in this files that I developed listed by complexity:
+
 1. Speller
 1. Recover
 1. Resize
