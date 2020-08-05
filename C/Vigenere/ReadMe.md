@@ -1,6 +1,6 @@
 # Vigenere
 
-Takes in a plaintext and a keyword, and returns a ciphertext. for better understanding of thos project check the [`Caesar project`](../Caesar).
+Takes in a plaintext and a keyword, and returns a ciphertext. for better understanding of this project check the [`Caesar project`](../Caesar).
 
 ## Vigenère’s cipher
 

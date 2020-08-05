@@ -1,6 +1,6 @@
 # Recover
 
-retrieving deleted images from an empty camera card.
+retrieves deleted images from a camera card.
 
 ## Background
 

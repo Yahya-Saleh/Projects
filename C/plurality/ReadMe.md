@@ -34,7 +34,7 @@ The #define MAX 9 means that MAX is an unchangeable constant that’s equal to 9
 
 > MAX represents the maximum number of candidates
 
-The file then defines a struct called a `candidate`. Each candidate has two fields: 
+The file then defines a struct called a `candidate`. Each candidate has two fields:
 
 - a string called name representing the candidate’s name
 - an int called votes representing the number of votes the candidate has.
