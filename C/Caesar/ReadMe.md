@@ -10,10 +10,10 @@ Takes in a plaintext and an integer and returns a ciphertext by rotating each ch
 
 ## Usage
 
-This program takes in the key, a number of characters to shift, as a second argument and asks the user for a plain text returning a ciphertext using the given key.
-
 ```bash
 $ ./caesar 13
 plaintext:  hello, world
 ciphertext: uryyb, jbeyq
 ```
+
+This program takes in the key, a number of characters to shift, as a second argument and asks the user for a plain text returning a ciphertext using the given key.
