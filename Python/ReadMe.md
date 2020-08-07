@@ -1,5 +1,8 @@
 # Python
 
- A variety of highly integrated programs that leverages the power of Python and its many modules. The list include data handling and analysis along with machine learning, AI, and much more.
+A variety of highly integrated programs that leverages the power of Python and its many modules. The following is the list of highlights fields covered:
 
- Python projects are also featured in web development, SQL, and Regular Expressions.
+1. Data Analytics
+1. Machine-Learning and AI
+
+Python projects are also featured in web development, SQL, and Regular Expressions.
