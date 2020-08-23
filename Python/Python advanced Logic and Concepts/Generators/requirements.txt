@@ -1,0 +1,3 @@
+pympler
+psutil
+resource
