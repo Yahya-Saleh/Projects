@@ -6,6 +6,8 @@ A Tic-Tac-Toe GUI where players can play against an implemented AI, [Watch it in
 
 The purpose of this project is to construct an AI that plays Tic-Tac-Toe optimally using the **MiniMax Search algorithm** to determine the best move.
 
+> You can compare this project to a one that i did at [middle school](https://github.com/Yahya-Saleh/Projects/tree/master/Python/Must%20Check%20Middle-school%20projects) ;)
+
 ## Usage
 
 ```bash
