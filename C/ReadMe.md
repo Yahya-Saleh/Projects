@@ -1,6 +1,6 @@
 # C programming
 
-this file includes an array of complex C programs that implements algorithms, and solve problems with high functionality. those programs will include, among other things, concepts like the following:
+This repository includes an array of complex C programs that implements algorithms, and solve problems with high functionality. those programs will include, among other things, concepts like the following:
 
 - command-line arguments.
 - pointers.
