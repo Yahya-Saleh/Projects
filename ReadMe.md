@@ -27,6 +27,9 @@ A variety of functional, fun, and effective projects that I have developed throu
 
 6. SQL
 
+   - SQLite3
+   - MySQL server
+
 7. Web Development
 
     - HTML
