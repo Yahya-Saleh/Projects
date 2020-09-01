@@ -14,6 +14,7 @@ A variety of functional, fun, and effective projects that I have developed throu
 3. C# programming
 
    - Windows Forms App (.NET Framework)
+   - Guna2
 
 4. Python
 

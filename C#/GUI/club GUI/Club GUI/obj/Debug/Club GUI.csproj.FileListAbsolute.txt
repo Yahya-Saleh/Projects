@@ -1,0 +1,48 @@
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\bin\Debug\Club GUI.exe.config
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\bin\Debug\Club GUI.exe
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\bin\Debug\Club GUI.pdb
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\obj\Debug\Club GUI.csprojAssemblyReference.cache
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\obj\Debug\Club_GUI.Login.resources
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\obj\Debug\Club_GUI.Properties.Resources.resources
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\obj\Debug\Club GUI.csproj.GenerateResource.cache
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\obj\Debug\Club GUI.csproj.CoreCompileInputs.cache
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\obj\Debug\Club GUI.exe
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\obj\Debug\Club GUI.pdb
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\bin\Debug\Guna.UI2.dll
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\obj\Debug\Club GUI.csproj.CopyComplete
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\obj\Debug\Club_GUI.Student.resources
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\obj\Debug\Club_GUI.Search_Club.resources
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\obj\Debug\Club_GUI.Rep.resources
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\obj\Debug\Club_GUI.Update_Club_Description.resources
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\obj\Debug\Club_GUI.Weekly_Updates.resources
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\obj\Debug\Club_GUI.Register_to_Club.resources
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\obj\Debug\Club_GUI.Admin.resources
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\obj\Debug\Club_GUI.List_Clubs.resources
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\obj\Debug\Club_GUI.Add_Club.resources
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\obj\Debug\Club_GUI.Update_Club.resources
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\obj\Debug\Club_GUI.List_Activities.resources
+C:\Users\Yahya Sherif\Desktop\University\IOOP\assignment\GUI\Club GUI\obj\Debug\Club_GUI.Delete_Club.resources
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\bin\Debug\Club GUI.exe.config
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\bin\Debug\Club GUI.exe
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\bin\Debug\Club GUI.pdb
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\bin\Debug\Guna.UI2.dll
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\obj\Debug\Club GUI.csprojAssemblyReference.cache
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\obj\Debug\Club_GUI.Admin.resources
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\obj\Debug\Club_GUI.List_Activities.resources
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\obj\Debug\Club_GUI.Delete_Club.resources
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\obj\Debug\Club_GUI.Update_Club.resources
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\obj\Debug\Club_GUI.List_Clubs.resources
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\obj\Debug\Club_GUI.Add_Club.resources
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\obj\Debug\Club_GUI.Register_to_Club.resources
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\obj\Debug\Club_GUI.Search_Club.resources
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\obj\Debug\Club_GUI.Rep.resources
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\obj\Debug\Club_GUI.Student.resources
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\obj\Debug\Club_GUI.Login.resources
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\obj\Debug\Club_GUI.Properties.Resources.resources
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\obj\Debug\Club_GUI.Weekly_Updates.resources
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\obj\Debug\Club_GUI.Update_Club_Description.resources
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\obj\Debug\Club GUI.csproj.GenerateResource.cache
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\obj\Debug\Club GUI.csproj.CoreCompileInputs.cache
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\obj\Debug\Club GUI.csproj.CopyComplete
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\obj\Debug\Club GUI.exe
+C:\Users\Yahya Sherif\Desktop\Projects\C#\GUI\club GUI\Club GUI\obj\Debug\Club GUI.pdb
