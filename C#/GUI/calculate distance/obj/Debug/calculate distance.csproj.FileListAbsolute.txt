@@ -1,0 +1,20 @@
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\calculate distance\bin\Debug\calculate distance.exe.config
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\calculate distance\bin\Debug\calculate distance.exe
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\calculate distance\bin\Debug\calculate distance.pdb
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\calculate distance\obj\Debug\calculate distance.csprojAssemblyReference.cache
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\calculate distance\obj\Debug\calculate_distance.btnClear.resources
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\calculate distance\obj\Debug\calculate_distance.Properties.Resources.resources
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\calculate distance\obj\Debug\calculate distance.csproj.GenerateResource.cache
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\calculate distance\obj\Debug\calculate distance.csproj.CoreCompileInputs.cache
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\calculate distance\obj\Debug\calculate distance.exe
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\calculate distance\obj\Debug\calculate distance.pdb
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\calculate distance\bin\Debug\calculate distance.exe.config
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\calculate distance\bin\Debug\calculate distance.exe
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\calculate distance\bin\Debug\calculate distance.pdb
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\calculate distance\obj\Debug\calculate distance.csprojAssemblyReference.cache
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\calculate distance\obj\Debug\calculate_distance.btnClear.resources
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\calculate distance\obj\Debug\calculate_distance.Properties.Resources.resources
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\calculate distance\obj\Debug\calculate distance.csproj.GenerateResource.cache
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\calculate distance\obj\Debug\calculate distance.csproj.CoreCompileInputs.cache
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\calculate distance\obj\Debug\calculate distance.exe
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\calculate distance\obj\Debug\calculate distance.pdb

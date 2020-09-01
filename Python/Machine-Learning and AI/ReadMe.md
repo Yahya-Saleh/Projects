@@ -11,7 +11,7 @@ This directory showcases some of the AI projects that I integrated and their eff
 3. Uncertainty
 
    1. probability theory
-   2. Baysian networks
+   2. Bayesian networks
 4. Optimization
 
    1. Local search

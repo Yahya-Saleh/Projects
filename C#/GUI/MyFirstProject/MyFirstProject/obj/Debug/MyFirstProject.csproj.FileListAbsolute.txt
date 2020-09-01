@@ -1,0 +1,20 @@
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.pdb
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csprojAssemblyReference.cache
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.Form1.resources
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.Properties.Resources.resources
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.GenerateResource.cache
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\MyFirstProject\MyFirstProject\bin\Debug\MyFirstProject.pdb
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csprojAssemblyReference.cache
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.Form1.resources
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.Properties.Resources.resources
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.GenerateResource.cache
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\MyFirstProject\MyFirstProject\obj\Debug\MyFirstProject.pdb

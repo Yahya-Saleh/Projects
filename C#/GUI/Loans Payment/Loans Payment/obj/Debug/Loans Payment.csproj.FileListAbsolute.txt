@@ -1,0 +1,20 @@
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\Loans Payment\Loans Payment\bin\Debug\Loans Payment.exe.config
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\Loans Payment\Loans Payment\bin\Debug\Loans Payment.exe
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\Loans Payment\Loans Payment\bin\Debug\Loans Payment.pdb
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\Loans Payment\Loans Payment\obj\Debug\Loans Payment.csprojAssemblyReference.cache
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\Loans Payment\Loans Payment\obj\Debug\Loans_Payment.LoansPayment.resources
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\Loans Payment\Loans Payment\obj\Debug\Loans_Payment.Properties.Resources.resources
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\Loans Payment\Loans Payment\obj\Debug\Loans Payment.csproj.GenerateResource.cache
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\Loans Payment\Loans Payment\obj\Debug\Loans Payment.csproj.CoreCompileInputs.cache
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\Loans Payment\Loans Payment\obj\Debug\Loans Payment.exe
+C:\Users\Yahya Sherif\Desktop\University\IOOP\creations\Loans Payment\Loans Payment\obj\Debug\Loans Payment.pdb
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\Loans Payment\Loans Payment\bin\Debug\Loans Payment.exe.config
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\Loans Payment\Loans Payment\bin\Debug\Loans Payment.exe
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\Loans Payment\Loans Payment\bin\Debug\Loans Payment.pdb
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\Loans Payment\Loans Payment\obj\Debug\Loans Payment.csprojAssemblyReference.cache
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\Loans Payment\Loans Payment\obj\Debug\Loans_Payment.LoansPayment.resources
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\Loans Payment\Loans Payment\obj\Debug\Loans_Payment.Properties.Resources.resources
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\Loans Payment\Loans Payment\obj\Debug\Loans Payment.csproj.GenerateResource.cache
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\Loans Payment\Loans Payment\obj\Debug\Loans Payment.csproj.CoreCompileInputs.cache
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\Loans Payment\Loans Payment\obj\Debug\Loans Payment.exe
+C:\Users\Yahya Sherif\Desktop\University\year 1\sem 2\IOOP\GUIs\Loans Payment\Loans Payment\obj\Debug\Loans Payment.pdb
