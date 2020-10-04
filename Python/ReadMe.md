@@ -8,6 +8,6 @@ A variety of highly integrated programs that leverages the power of Python and i
 
 Python projects are also featured in in other directories:
 
-1. web development
+1. Web Development
 2. SQL
 3. Regular Expressions
