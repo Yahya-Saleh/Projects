@@ -8,33 +8,6 @@ This directory shows a list of projects I developed in R as well some tasks and 
 
 1. **Pyramid**: Builds a pyramid with the specified height.
 
-## Implementation and concepts
-
-1. Packages
-2. DataTypes
-3. Functions and variables
-4. Vectors
-   - Arithmetics
-   - Coercion
-   - Subsetting
-5. Sorting
-   - Sort
-   - Order
-   - Rank
-6. Indexing
-    - Which
-    - Match
-    - %in%
-7. Data Wringling
-    - Dplyr
-    - Mutate
-    - Filter
-    - Select
-    - Pipe
-8. Basic Plots
-    - Plot
-    - Hist
-
 ## Packages
 
 1. Dplyr
