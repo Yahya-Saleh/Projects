@@ -2,6 +2,26 @@
 
 This directory showcases some of the AI projects that I integrated and their efficiency. Each project has a video illustration showcasing the project in action.
 
+## Projects listed by complexity
+
+1. **Nim**: An AI that teaches itself to play Nim through reinforcement learning. [Watch it in action!](https://youtu.be/htNaL07k5H0)
+
+2. **Shopping**: An AI that predicts whether online shopping customers will complete a purchase. [Watch it in action!](https://youtu.be/GIOaLuQ9TCg)
+
+3. **CrossWord**: An AI that generates crossword puzzles. [watch it in action!](https://youtu.be/iuapVK6R4yg)
+
+4. **Heredity**: An AI to assess the likelihood that a person will have a particular genetic trait. [Watch an illustration!](https://youtu.be/s8RXy5BAfZ8)
+
+5. **Page Rank**: An AI that ranks Webpages using both sampling and iteration. [Watch an illustration](https://youtu.be/0Kni74X-CrI)!
+
+6. **minesweeper**: The minesweeper game with an implemented AI that can play the game. [Watch it in action!](https://youtu.be/tlMrZHnrZ_w)
+
+7. **tictactoe**: A Tic-Tac-Toe GUI where players can play against an implemented AI, [Watch it in action!](https://youtu.be/2pN998DBFAk)
+
+8. **knights and knaves**: A program that represents and solves four knights and knaves puzzles, [Watch it in action](https://youtu.be/W2CIwfBTtzc)
+
+9. **Degrees**: A program that determines how many “degrees of separation” apart two actors are. [Watch an illustration!](https://www.youtube.com/watch?v=CRNSMGsmEqo&t=8s)
+
 ## Topics covered
 
 1. Search algorithms
@@ -33,23 +53,3 @@ This directory showcases some of the AI projects that I integrated and their eff
       2. Deep Neural Networks
       3. Convolutional Neural Networks
    2. Recurrent Neural Networks
-
-## Listed by complexity
-
-1. **Nim**: An AI that teaches itself to play Nim through reinforcement learning. [Watch it in action!](https://youtu.be/htNaL07k5H0)
-
-2. **Shopping**: An AI that predicts whether online shopping customers will complete a purchase. [Watch it in action!](https://youtu.be/GIOaLuQ9TCg)
-
-3. **CrossWord**: An AI that generates crossword puzzles. [watch it in action!](https://youtu.be/iuapVK6R4yg)
-
-4. **Heredity**: An AI to assess the likelihood that a person will have a particular genetic trait. [Watch an illustration!](https://youtu.be/s8RXy5BAfZ8)
-
-5. **Page Rank**: An AI that ranks Webpages using both sampling and iteration. [Watch an illustration](https://youtu.be/0Kni74X-CrI)!
-
-6. **minesweeper**: The minesweeper game with an implemented AI that can play the game. [Watch it in action!](https://youtu.be/tlMrZHnrZ_w)
-
-7. **tictactoe**: A Tic-Tac-Toe GUI where players can play against an implemented AI, [Watch it in action!](https://youtu.be/2pN998DBFAk)
-
-8. **knights and knaves**: A program that represents and solves four knights and knaves puzzles, [Watch it in action](https://youtu.be/W2CIwfBTtzc)
-
-9. **Degrees**: A program that determines how many “degrees of separation” apart two actors are. [Watch an illustration!](https://www.youtube.com/watch?v=CRNSMGsmEqo&t=8s)
