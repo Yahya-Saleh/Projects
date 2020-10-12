@@ -22,7 +22,6 @@ If the attachment file isn't found the user can skip through this message or ren
 
 <img src="snippets/2.message_input_frame_for_three_messages.png"/>
 
-
 ## Automation
 
 Using selenium and other modules, the program starts automatically sending the specified messages to each contact. This is achieved through opening and manipulating a web drive at an extremely high speed. If the WhatsApp database does not recognize a number that number is reported.
