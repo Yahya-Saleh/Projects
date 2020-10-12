@@ -4,12 +4,13 @@ A variety of functional, fun, and effective projects that I have developed throu
 
 1. Scratch
 
-2. C programming
+2. Standard C
 
-   - command-line arguments
-   - pointers
-   - data structures (single and double linked lists, hash tables, and tries)
-   - dynamic and static memory allocation
+   - Command-line arguments
+   - Pointers
+   - Data structures (single and double linked lists, hash tables, and tries)
+   - Dynamic and static memory allocation
+   - Image Manipulation
 
 3. C# programming
 
@@ -23,16 +24,25 @@ A variety of functional, fun, and effective projects that I have developed throu
    - Graphical User interfaces
    - Mobile Application
   
-5. Regular Expressions
+5. R Programming
+   - Data Analysis
+   - Data Manipulate
+   - Data Visualization
 
-6. SQL
+6. Regular Expressions
+
+7. SQL
 
    - SQLite3
    - MySQL server
 
-7. Web Development
+8. Web Development
 
     - HTML
     - CSS
     - JavaScript
     - Flask
+
+9. Virtual Instruments
+
+   - NI LabView
