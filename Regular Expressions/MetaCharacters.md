@@ -33,7 +33,3 @@ Quantifiers Indicate how many times do we want a character or pattern to repeat
 ?       => 0 or One
 {3}     => Exact Number
 {3,4}   => Range of Numbers (Minimum, Maximum)
-
-## Sample Regexs
-
-[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+
