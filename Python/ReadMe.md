@@ -6,7 +6,7 @@ A variety of highly integrated programs that leverages the power of Python and i
 2. Machine-Learning and AI
 3. Mobile Applications
 
-Python projects are also featured in in other directories:
+Python projects are also featured in other directories:
 
 1. Web Development
 2. SQL
