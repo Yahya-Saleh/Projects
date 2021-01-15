@@ -4,9 +4,9 @@ Takes in a plaintext and an integer and returns a ciphertext by rotating each ch
 
 ## Caesar’s algorithm
 
-**Caesar’s algorithm** (i.e., cipher) encrypts messages by “rotating” each letter by k positions. More formally, if p is some **plaintext** (i.e., an unencrypted message), <!-- $p_{i}$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=p_%7Bi%7D"> is the <!-- $i^{th}$ --> <img style="transform: translateY(0.1em); background: white;" src="..\..\Snippets\c\caesar\$i^{th}$ .svg"> character in p, and k is a **secret key** (i.e., a non-negative integer), then each letter, <!-- $c_i$ --> <img style="transform: translateY(0.1em); background: white;" src="..\..\Snippets\c\caesar\$c_i$.svg">, in the **ciphertext**, c, is computed as
+**Caesar’s algorithm** (i.e., cipher) encrypts messages by “rotating” each letter by k positions. More formally, if p is some **plaintext** (i.e., an unencrypted message), <!-- $p_{i}$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=p_%7Bi%7D"> is the <!-- $i^{th}$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=i%5E%7Bth%7D"> character in p, and k is a **secret key** (i.e., a non-negative integer), then each letter, <!-- $c_i$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=c_i">, in the **ciphertext**, c, is computed as
 
-> <!-- $c_{i} = (p_i + k) % 26$ --> <img style="transform: translateY(0.1em); background: white;" src="..\..\Snippets\c\caesar\ciphertext formula.svg">
+> <!-- $c_{i} = (p_i + k) % 26$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=c_%7Bi%7D%20%3D%20(p_i%20%2B%20k)%20%25%2026">
 
 ## Usage
 
