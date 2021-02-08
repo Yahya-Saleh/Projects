@@ -30,19 +30,25 @@ This repositories showcase some of the various projects I integrated over the ye
    - Data Manipulate
    - Data Visualization
 
-6. [Regular Expressions](Regular%20Expressions)
+6. [Web Development](Web%20Development)
+subcategories 
+    - Languages:
+      - HTML
+      - CSS and SASS
+      - JavaScript
+      - Python
+    - Frameworks:
+      - Bootstrap
+      - Django
+      - Flask
+      - React
 
 7. [SQL](SQL)
 
    - SQLite3
    - MySQL server
 
-8. [Web Development](Web%20Development)
-
-    - HTML
-    - CSS
-    - JavaScript
-    - Flask
+8. [Regular Expressions](Regular%20Expressions)
 
 9. [Virtual Instruments](Virtual%20Instruments)
 
