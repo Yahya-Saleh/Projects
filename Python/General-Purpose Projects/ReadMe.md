@@ -14,5 +14,6 @@ The following projects do not strictly fall under a specific field of computer s
 7. [**longest_substring**](Longest_substring): A program that prints the longest substring in which the letters occur in alphabetical order.
 8. [**GCD recur**](GCD%20recur): A function that takes in two positive integers and returns the greatest common denominator using recursion
 9. [**Mario**](Mario): Much like the [mario in the C projects](../../C/Mario), This project Recreates the double pyramids in the mario game using # with a height specified by the user between 1 and 8 inclusive. However, since its done in python it requires advanced understanding of the print function.
-10. [**CursorLocator**](CursorLocator.py)
-11. [**Hello**](hello.py)
+10. [**Polysum**](Polysum): A function that takes in the number of sides of a regular polygon and their length and returns sum the area and square of the perimeter.
+11. [**CursorLocator**](CursorLocator.py)
+12. [**Hello**](hello.py)
