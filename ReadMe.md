@@ -17,21 +17,30 @@ This repositories showcase some of the various projects I integrated over the ye
    - Windows Forms App (.NET Framework)
    - Guna2
 
-4. [Python](Python)
+4. [C++](C++)
+
+   - Pointers
+   - Data structures (single and double linked lists, hash tables, and tries)
+   - Dynamic and static memory allocation
+   - Image Manipulation and convolution
+   - Computer vision
+
+5. [Python](Python)
 
    - Data Analytics
    - Machine-Learning and AI
    - Graphical User interfaces
    - Mobile Application
   
-5. [R Programming](R)
+6. [R Programming](R)
 
+   - Data Cleaning
    - Data Analysis
    - Data Manipulate
    - Data Visualization
 
-6. [Web Development](Web%20Development)
-subcategories 
+7. [Web Development](Web%20Development)
+subcategories
     - Languages:
       - HTML
       - CSS and SASS
@@ -43,13 +52,13 @@ subcategories
       - Flask
       - React
 
-7. [SQL](SQL)
+8. [SQL](SQL)
 
    - SQLite3
    - MySQL server
 
-8. [Regular Expressions](Regular%20Expressions)
+9. [Regular Expressions](Regular%20Expressions)
 
-9. [Virtual Instruments](Virtual%20Instruments)
+10. [Virtual Instruments](Virtual%20Instruments)
 
-   - NI LabView
+    - NI LabView
