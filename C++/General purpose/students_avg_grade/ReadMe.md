@@ -1,6 +1,6 @@
 # Students' grades
 
-a program that prompts the user for the number of their students and creates an array of that size. Then using pointers and dynamic memory the program prompts the user to enter a grade for each student in each of the three categories:
+A program that prompts the user for the number of their students and creates an array of that size. Then using pointers and dynamic memory the program prompts the user to enter a grade for each student in each of the three categories:
 
 - Quiz out of 20
 - Assignment out of 30

@@ -1,6 +1,6 @@
 # Roman Numerals
 
-A program that asks the user to enter a number within the range of 1 through 10 and returns the Roman numeral version of that number.
+A program that asks the user to enter a number within the range of 1 through 10 and returns the Roman numeral version of that number with a clever use of teh `switch` statement.
 
 ## Execution
 

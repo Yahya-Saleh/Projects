@@ -1,6 +1,6 @@
 # Summation
 
-prompts the user for 10 numbers and prints their summation.
+Prompts the user for 10 numbers and prints their summation.
 
 ## Execution
 

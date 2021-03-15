@@ -1,6 +1,6 @@
 # Sum value 2
 
-An improvement in [sum value](../Sum%20value) where the program takes in two positive integers and prints out the sum from the former to the later inclusively.
+An improvement on [sum value](../Sum%20value) where the program takes in two positive integers and prints out the sum from the former to the later inclusively.
 
 ## Execution
 

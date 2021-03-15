@@ -1,6 +1,6 @@
 # MiniMax
 
-prompts the user for 10 integers and prints the biggest and smallest numbers.
+Prompts the user for 10 integers and prints the biggest and smallest numbers.
 
 ## Execution
 

@@ -8,4 +8,4 @@ Manually integrating also of teh applications and algorithms of computer vision.
 
 ## [General purpose projects](General%20purpose)
 
-Various problems solved with C++ leveraging the different data structures, and dynamic memory allocation the language has to offer. [check it out.](General%20purpose)
+Various problems solved with C++ leveraging the different data structures, and dynamic memory allocation the language has to offer.
