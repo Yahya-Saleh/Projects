@@ -2,7 +2,7 @@
 
 Various problems solved with C++ leveraging the different data structures, and dynamic memory allocation the language has to offer.
 
-you can also view the [Computer Vision projects]()
+you can also view the [Computer Vision projects](Computer%20Vision).
 
 ## Listed by complexity
 
