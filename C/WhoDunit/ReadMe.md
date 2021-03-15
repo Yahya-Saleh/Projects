@@ -4,6 +4,15 @@
 
 Welcome to Tudor Mansion. Your host, Mr. John Boddy, has met an untimely end - he’s the victim of foul play. To win this game, you must determine whodunit.
 
+## Usage
+
+ ```bash
+ $ ./whodunit clue.bmp verdict.bmp
+ $
+ ```
+
+Using key knowledge of 24-bit BMP files and bits manipulation, this program solves the mystery.
+
 ## Background
 
 ![Clue](img/clue.bmp)
@@ -15,12 +24,3 @@ Welcome to Tudor Mansion. Your host, Mr. John Boddy, has met an untimely end - h
 The goal is to design a program that will take in the clue and reveals the WhoDunit!
 
 ![verdict](img/verdict.bmp)
-
-## Usage
-
- ```bash
- $ ./whodunit clue.bmp verdict.bmp
- $
- ```
-
-Using key knowledge of 24-bit BMP files and bits manipulation, this program solves the mystery.

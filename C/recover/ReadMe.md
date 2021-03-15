@@ -1,6 +1,21 @@
 # Recover
 
-retrieves deleted images from a camera card.
+Retrieves deleted images from a camera card.
+
+## Usage
+
+```bash
+$ ./recover card.raw
+$
+```
+
+The program takes in a camera card as a command-line argument and retrieves any of the card's deleted photos.
+
+## Recovered
+
+The camera card had exactly 50 deleted photos are of which are stored in the [`recovered directory`](recovered).
+
+---
 
 ## Background
 
@@ -25,16 +40,3 @@ For example, a photo that’s 1 MB (i.e., 1,048,576 B) thus takes up 1048576 ÷ 
 on a side note, Forensic investigators often look at slack space for remnants of suspicious data.
 
 Thanks to FAT, we can trust that JPEGs' signatures will be **"block-aligned"**. That is, we need only look for those signatures in a block’s first four bytes. brand-new memory cards have probably been **"zeroed"** (i.e., filled with 0s) by the manufacturer, in which case any slack space will be filled with 0s.
-
-## Usage
-
-```bash
-$ ./recover card.raw
-$
-```
-
-The program takes in a camera card as a command-line argument and retrieves any of the card's deleted photos.
-
-## Recovered
-
-The camera card had exactly 50 deleted photos are of which are stored in the [`recovered directory`](recovered).

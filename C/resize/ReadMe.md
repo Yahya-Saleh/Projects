@@ -20,6 +20,8 @@ The program takes in three command-line arguments:
 
 Note: the out-file doesn't need to exist before hand.
 
+---
+
 ## BMP image files
 
 > A file is just a sequence of bits, arranged in some fashion.
