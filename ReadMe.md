@@ -36,7 +36,7 @@ This repositories showcase some of the various projects I integrated over the ye
 
    - Data Cleaning
    - Data Analysis
-   - Data Manipulate
+   - Data manipulation
    - Data Visualization
 
 7. [Web Development](Web%20Development)
