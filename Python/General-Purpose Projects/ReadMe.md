@@ -6,7 +6,8 @@ The following projects do not strictly fall under a specific field of computer s
 
 1. [**WhatsAppAutomation**](Whatsapp_Automation): A Graphical user interface That sends specified text message or attachment to a given number(s). [Check the illustration!](https://youtu.be/NItektT6gao)
 
-2. [**Caesar Encryption and Decryption**](Caesar%20Decryption): The implementation of a hierarchy to represent a message that can be encrypted using Caesar's encryption, and two sub classes: `PlaintextMessage` and `CiphertextMessage`, one encrypting and the other decrypting their message respectively. The goal is to decrypt [story.txt](story.txt)
+2. [**Caesar Encryption and Decryption**](Caesar%20Decryption): The implementation of a hierarchy to represent a message that can be encrypted using Caesar's encryption, and two sub classes: `PlaintextMessage` and `CiphertextMessage`, one encrypting and the other decrypting their message respectively.
+   - The goal is to decrypt [story.txt](Caesar%20Decryption/story.txt)
 3. [**DNA**](DNA): A program that identifies a person based on their DNA.
 4. [**Hangman**](hangman): A variation of the classic word game Hangman. For those of you who are unfamiliar with the rules, you may read all about it [here](https://en.wikipedia.org/wiki/Hangman_(game)). The second player will always be the computer, who will be picking a word at random.
 5. [**Credit card debt**](Credit%20card%20debt): A three part project implementing programs that answer questions pertaining to credit card debt.
