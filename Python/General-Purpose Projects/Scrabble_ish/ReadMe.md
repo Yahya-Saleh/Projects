@@ -1,6 +1,6 @@
-# Word game
+# Scrabble_ish
 
-In this problem set, you'll implement two versions of a wordgame!
+This game is a lot like Scrabble or Words With Friends. Letters are dealt to players, who then construct one or more words out of their letters. Each **valid** word receives a score, based on the length of the word and the letters in that word.
 
 ## Usage
 
@@ -50,7 +50,7 @@ Enter n to deal a new hand, r to replay the last hand, or e to end game: e
 
 ## Table of content
 
-- [Word game](#word-game)
+- [Scrabble_ish](#scrabble_ish)
   - [Usage](#usage)
   - [Table of content](#table-of-content)
   - [Background](#background)
