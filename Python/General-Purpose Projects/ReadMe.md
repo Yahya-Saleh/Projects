@@ -15,11 +15,12 @@ The following projects do not strictly fall under a specific field of computer s
 7. [**Integer set**](integer%20set): A class definition for an integer set which contains unique integers.
 8. [**Voice**](Voice): This program touches on the foundation of AI. Using Google's voice recognition system it listens to the users speaks and depending on what it hear the machine responds automatically, it can even memorize the user's name.
 9. [**Credit**](Credit): Using some fundamental knowledge about how credit (or debit) cards like the number's length and structure along with luhan's Algorithm, one can devise a program to validate a card's number.
-10. [**Is in**](is%20in): A function that behaves like the `in` in Python: returns true if a character is in a given string using recursion.
-11. [**Readability**](Readability): A program that computes the approximate grade level needed to comprehend some text Using the Coleman-Liau index.
-12. [**longest_substring**](Longest_substring): A program that prints the longest substring in which the letters occur in alphabetical order.
-13. [**GCD recur**](GCD%20recur): A function that takes in two positive integers and returns the greatest common denominator using recursion
-14. [**Mario**](Mario): Much like the [mario in the C projects](../../C/Mario), This project Recreates the double pyramids in the mario game using # with a height specified by the user between 1 and 8 inclusive. However, since its done in python it requires advanced understanding of the print function.
-15. [**Polysum**](Polysum): A function that takes in the number of sides of a regular polygon and their length and returns sum the area and square of the perimeter.
-16. [**CursorLocator**](CursorLocator.py)
-17. [**Hello**](hello.py)
+10. [**Primes generator**](Primes_generator): Using the power generators teh program generates all of the prime numbers.
+11. [**Is in**](is%20in): A function that behaves like the `in` in Python: returns true if a character is in a given string using recursion.
+12. [**Readability**](Readability): A program that computes the approximate grade level needed to comprehend some text Using the Coleman-Liau index.
+13. [**longest_substring**](Longest_substring): A program that prints the longest substring in which the letters occur in alphabetical order.
+14. [**GCD recur**](GCD%20recur): A function that takes in two positive integers and returns the greatest common denominator using recursion
+15. [**Mario**](Mario): Much like the [mario in the C projects](../../C/Mario), This project Recreates the double pyramids in the mario game using # with a height specified by the user between 1 and 8 inclusive. However, since its done in python it requires advanced understanding of the print function.
+16. [**Polysum**](Polysum): A function that takes in the number of sides of a regular polygon and their length and returns sum the area and square of the perimeter.
+17. [**CursorLocator**](CursorLocator.py)
+18. [**Hello**](hello.py)
