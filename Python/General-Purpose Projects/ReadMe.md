@@ -22,5 +22,5 @@ The following projects do not strictly fall under a specific field of computer s
 14. [**GCD recur**](GCD%20recur): A function that takes in two positive integers and returns the greatest common denominator using recursion
 15. [**Mario**](Mario): Much like the [mario in the C projects](../../C/Mario), This project Recreates the double pyramids in the mario game using # with a height specified by the user between 1 and 8 inclusive. However, since its done in python it requires advanced understanding of the print function.
 16. [**Polysum**](Polysum): A function that takes in the number of sides of a regular polygon and their length and returns sum the area and square of the perimeter.
-17. [**CursorLocator**](CursorLocator.py)
-18. [**Hello**](hello.py)
+17. [**CursorLocator**](CursorLocator.py): A simple program used in a private project to get the cursor's coordinate.
+18. [**Hello**](hello.py): Hello World ;)
