@@ -11,15 +11,16 @@ you can also view the [Computer Vision projects](../Computer%20Vision).
 3. [**Convert with pointers**](convert_with_pointers): a program that converts a given double to centimeters, with 4 decimal precision, using pointers and memory addresses.
 4. [**Bubble sort**](bubble_sort): sorting 10 given numbers using bubble sort.
 5. [**MiniMax**](MiniMax): prompts the user for 10 integers and prints the biggest and smallest numbers.
-6. [**Roman Numerals**](Roman%20Numerals): a program that asks the user to enter a number within the range of 1 through 10 and returns the Roman numeral version of that number with a clever use of teh `switch` statement.
-7. [**Bank account**](Bank%20account): A class representing a bank account.
-8. [**Sum value 2**](Sum%20value%202): an improvement on [`sum value`](Sum%20value) where the program takes in two positive integers and prints out the sum from the former to the later inclusively.
-9. [**Sum value**](Sum%20value): a program that takes in a positive number and prints out the sum from 1 all the way to that number.
-10. [**Grader**](grade): a program that grades the answers based on a given model answer and indicates weather the test taker passed or failed.
-11. [**Array in memory**](array_memory): a simple project that illustrates how array elements are stored in memory.
-12. [**Even counter**](Even_counter): a function that takes in an array of `int`s and its size and returns the number of even numbers inside the array.
-13. [**Summation**](summation): prompts the user for 10 numbers and prints their summation.
-14. [**greatest Rectangle area**](rect_area): a program that prompts teh user for the measurements of two rectangles and returns which one has a greater area.
-15. [**Convert**](convert): a program that converts meters to feet and inches.
-16. [**Hello name**](hello_name): hello you?
-17. [**Hello**](hello): here we go again ;)
+6. [**Population**](Population): a class representation of a population.
+7. [**Roman Numerals**](Roman%20Numerals): a program that asks the user to enter a number within the range of 1 through 10 and returns the Roman numeral version of that number with a clever use of teh `switch` statement.
+8. [**Bank account**](Bank%20account): A class representing a bank account.
+9. [**Sum value 2**](Sum%20value%202): an improvement on [`sum value`](Sum%20value) where the program takes in two positive integers and prints out the sum from the former to the later inclusively.
+10. [**Sum value**](Sum%20value): a program that takes in a positive number and prints out the sum from 1 all the way to that number.
+11. [**Grader**](grade): a program that grades the answers based on a given model answer and indicates weather the test taker passed or failed.
+12. [**Array in memory**](array_memory): a simple project that illustrates how array elements are stored in memory.
+13. [**Even counter**](Even_counter): a function that takes in an array of `int`s and its size and returns the number of even numbers inside the array.
+14. [**Summation**](summation): prompts the user for 10 numbers and prints their summation.
+15. [**greatest Rectangle area**](rect_area): a program that prompts teh user for the measurements of two rectangles and returns which one has a greater area.
+16. [**Convert**](convert): a program that converts meters to feet and inches.
+17. [**Hello name**](hello_name): hello you?
+18. [**Hello**](hello): here we go again ;)
