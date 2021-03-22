@@ -32,11 +32,7 @@ def main():
     # Get a compiled neural network
     model = get_model()
 
-    # Fit model on training data
-    model.fit(x_train, y_train, epochs=EPOCHS)
 
-    # Evaluate neural network performance
-    model.evaluate(x_test, y_test, verbose=2)
 
     # Save model to file
     if len(sys.argv) == 3:
