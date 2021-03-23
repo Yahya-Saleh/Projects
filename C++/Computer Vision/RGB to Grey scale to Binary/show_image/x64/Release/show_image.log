@@ -1,2 +1,8 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (RGB to Grey scale.vcxproj, show_image.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  show_image.vcxproj -> D:\University\year 2\sem 4\ISE\code\RGB to Grey scale to Binary\x64\Release\RGB to Grey scale to binary.exe
+  Source.cpp
+  Generating code
+  209 of 213 functions (98.1%) were compiled, the rest were copied from previous compilation.
+    16 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  show_image.vcxproj -> D:\Projects\C++\Computer Vision\RGB to Grey scale to Binary\x64\Release\RGB to Grey scale to binary.exe
