@@ -20,6 +20,6 @@ here's an example on a grey scale image highlighting a range of 100 - 180:
 
 Using math functions, an image's brightness can be controlled.
 
-![Step function](../../../Snippets/C++/CV/Math%20functions/darken.png)
+![darken function](../../../Snippets/C++/CV/Math%20functions/darken.png)
 
-![Step function](../../../Snippets/C++/CV/Math%20functions/darken_RBG.png)
+![darken RBG function](../../../Snippets/C++/CV/Math%20functions/darken_RBG.png)
