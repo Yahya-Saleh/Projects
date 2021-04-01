@@ -107,112 +107,210 @@ This method iterates over teh LinkedList and displays the student info that hold
         ID: 0   Midterm-test: 20        Quiz: 10        Assignment: 20  Final exam: 50
 ```
 
+### `search_record`
+
+Searches for a student by id, displaying the record if it exists.
+
+```bash
+Enter the student's ID: 2
+No student with 2 ID.
+```
+
+```bash
+Enter the student's ID: 1
+        ID: 1   Midterm-test: 1 Quiz: 1 Assignment: 1   Final exam: 1
+```
+
+### `update_record`
+
+Updates the record of a given id.
+
+### `delete_record`
+
+deletes a record of a given id.
+
+### `rest`
+
+deletes all records.
+
 ---
 
 ## Execution
 
 ```bash
 Welcome to class CLI:
-        1. Add new records
-        2. Add a record
-        3. Display records
-        4. Get best student
+                    1. Add new records
+                    2. Add a record
+                    3. Display records
+                    4. Get best student
+                    5. Search record
+                    6. Update record
+                    7. Delete record
+                    8. Rest
 
-        0. Exit
+                    0. Exit
 
-Pick an option: 2
-Enter the Midterm-test grade (out of 20): 2
-Enter the Quiz grade (out of 10): 2
+Pick an option: 1
+How many records fo you wish to: 3
+Enter the information for student 1
+
+Enter the Midterm-test grade (out of 20): 20
+Enter the Quiz grade (out of 10): 5
+Enter the Assignment grade (out of 20): 1
+Enter the Final exam grade (out of 50): 32
+
+
+Enter the information for student 2
+
+Enter the Midterm-test grade (out of 20): 12
+Enter the Quiz grade (out of 10): 5
+Enter the Assignment grade (out of 20): 21
+Please enter a grade within range!
 Enter the Assignment grade (out of 20): 2
-Enter the Final exam grade (out of 50): 2
+Enter the Final exam grade (out of 50): 50
 
-Press any key to continue...
-Welcome to class CLI:      
-        1. Add new records 
-        2. Add a record    
-        3. Display records 
-        4. Get best student
 
-        0. Exit
+Enter the information for student 3
 
-Pick an option: 3
-        ID: 0   Midterm-test: 2 Quiz: 2 Assignment: 2   Final exam: 2
+Enter the Midterm-test grade (out of 20): 3
+Enter the Quiz grade (out of 10): 6
+Enter the Assignment grade (out of 20): 4
+Enter the Final exam grade (out of 50): 5
 
-Press any key to continue...
-Welcome to class CLI:     
-        1. Add new records
-        2. Add a record   
-        3. Display records
-        4. Get best student
 
-        0. Exit
-
-Pick an option: 2
-Enter the Midterm-test grade (out of 20): 2
-Enter the Quiz grade (out of 10): 2
-Enter the Assignment grade (out of 20): 2
-Enter the Final exam grade (out of 50): 2
 
 Press any key to continue...
 Welcome to class CLI:
-        1. Add new records
-        2. Add a record
-        3. Display records
-        4. Get best student
+                    1. Add new records
+                    2. Add a record
+                    3. Display records
+                    4. Get best student
+                    5. Search record
+                    6. Update record
+                    7. Delete record
+                    8. Rest
 
-        0. Exit
-
-Pick an option: 3
-        ID: 0   Midterm-test: 2 Quiz: 2 Assignment: 2   Final exam: 2
-        ID: 1   Midterm-test: 2 Quiz: 2 Assignment: 2   Final exam: 2
-
-Press any key to continue...
-Welcome to class CLI:
-        1. Add new records
-        2. Add a record
-        3. Display records
-        4. Get best student
-
-        0. Exit
+                    0. Exit
 
 Pick an option: 4
-        ID: 0   Midterm-test: 2 Quiz: 2 Assignment: 2   Final exam: 2
+        ID: 1   Midterm-test: 12        Quiz: 5 Assignment: 2   Final exam: 50
 
 Press any key to continue...
 Welcome to class CLI:
-        1. Add new records
-        2. Add a record
-        3. Display records
-        4. Get best student
+                    1. Add new records
+                    2. Add a record
+                    3. Display records
+                    4. Get best student
+                    5. Search record
+                    6. Update record
+                    7. Delete record
+                    8. Rest
 
-        0. Exit
+                    0. Exit
 
-Pick an option: 2
+Pick an option: 3
+        ID: 0   Midterm-test: 20        Quiz: 5 Assignment: 1   Final exam: 32
+        ID: 1   Midterm-test: 12        Quiz: 5 Assignment: 2   Final exam: 50
+        ID: 2   Midterm-test: 3 Quiz: 6 Assignment: 4   Final exam: 5
+
+Press any key to continue...
+Welcome to class CLI:
+                    1. Add new records
+                    2. Add a record
+                    3. Display records
+                    4. Get best student
+                    5. Search record
+                    6. Update record
+                    7. Delete record
+                    8. Rest
+
+                    0. Exit
+
+Pick an option: 7
+Enter the student's ID: 1
+successfully deleted
+Press any key to continue...
+Welcome to class CLI:
+                    1. Add new records
+                    2. Add a record
+                    3. Display records
+                    4. Get best student
+                    5. Search record
+                    6. Update record
+                    7. Delete record
+                    8. Rest
+
+                    0. Exit
+
+Pick an option: 3
+        ID: 0   Midterm-test: 20        Quiz: 5 Assignment: 1   Final exam: 32
+        ID: 2   Midterm-test: 3 Quiz: 6 Assignment: 4   Final exam: 5
+
+Press any key to continue...
+Welcome to class CLI:
+                    1. Add new records
+                    2. Add a record
+                    3. Display records
+                    4. Get best student
+                    5. Search record
+                    6. Update record
+                    7. Delete record
+                    8. Rest
+
+                    0. Exit
+
+Pick an option: 6
+Enter the student's ID: 0
 Enter the Midterm-test grade (out of 20): 20
 Enter the Quiz grade (out of 10): 10
 Enter the Assignment grade (out of 20): 20
-Enter the Final exam grade (out of 50): 30
+Enter the Final exam grade (out of 50): 50
 
 Press any key to continue...
 Welcome to class CLI:
-        1. Add new records
-        2. Add a record
-        3. Display records
-        4. Get best student
+                    1. Add new records
+                    2. Add a record
+                    3. Display records
+                    4. Get best student
+                    5. Search record
+                    6. Update record
+                    7. Delete record
+                    8. Rest
 
-        0. Exit
+                    0. Exit
 
-Pick an option: 4
-        ID: 2   Midterm-test: 20        Quiz: 10        Assignment: 20  Final exam: 30
+Pick an option: 8
 
 Press any key to continue...
 Welcome to class CLI:
-        1. Add new records
-        2. Add a record
-        3. Display records
-        4. Get best student
+                    1. Add new records
+                    2. Add a record
+                    3. Display records
+                    4. Get best student
+                    5. Search record
+                    6. Update record
+                    7. Delete record
+                    8. Rest
 
-        0. Exit
+                    0. Exit
+
+Pick an option: 3
+
+No records stored
+
+
+Press any key to continue...
+Welcome to class CLI:
+                    1. Add new records
+                    2. Add a record
+                    3. Display records
+                    4. Get best student
+                    5. Search record
+                    6. Update record
+                    7. Delete record
+                    8. Rest
+
+                    0. Exit
 
 Pick an option: 0
 ```
