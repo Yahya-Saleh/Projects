@@ -37,8 +37,8 @@ Mat EqualizeHistogram(Mat grey)
 
 	// 1. Pixel count
 	int count[256] = { 0 };
-	for (int i = 0; i < grey.cols; i++)
-		for (int j = 0; j < grey.rows; j++)
+	for (int i = 0; i < grey.rows; i++)
+		for (int j = 0; j < grey.cols; j++)
 			count[grey.at<uchar>(i, j)]++;
 	
 	// 2. Probability
