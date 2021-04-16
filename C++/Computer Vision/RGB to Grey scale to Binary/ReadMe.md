@@ -2,7 +2,7 @@
 
 Defines two functions: one to convert any RGB image to grey scale, and another to convert a grey scale to a binary image.
 
-<img src="../../../Snippets/C++/CV/RBG%20to%20grey.jpg" height="200" alt="RBG to grey image"><img src="../../../Snippets/C++/CV/Binary.jpg" height="200" alt="Binary image">
+<img src="../../../Snippets/C++/CV/RBG%20to%20grey.jpg" height="300" alt="RBG to grey image"><img src="../../../Snippets/C++/CV/Binary.jpg" height="300" alt="Binary image">
 
 ## Functions
 

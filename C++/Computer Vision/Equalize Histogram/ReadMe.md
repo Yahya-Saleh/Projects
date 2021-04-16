@@ -2,7 +2,7 @@
 
 Histogram equalization is a method to process images in order to adjust the contrast of an image by modifying the intensity distribution of the histogram. The objective of this technique is to give a linear trend to the cumulative probability function associated to the image.
 
-![Images' histogram](../../../Snippets/C++/CV/Image%20Histogram%20Equalization/Images'%20histogram.png)
+<img src="../../../Snippets/C++/CV/Image%20Histogram%20Equalization/Images'%20histogram.png" height="300" alt="Images' histogram">
 
 The goal is to take an image that is not Equalized, shown above, and improve its contrast for better processing.
 
@@ -44,4 +44,4 @@ Mat EqualizeHistogram(Mat grey)
 
 Here's an example of an image after getting equalized:
 
-![Images' histogram](../../../Snippets/C++/CV/Image%20Histogram%20Equalization/Equalized%20image.jpg)
+<img src="../../../Snippets/C++/CV/Image%20Histogram%20Equalization/Equalized%20image.jpg" height="300" alt="Images' histogram">

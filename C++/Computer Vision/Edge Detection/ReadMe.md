@@ -27,7 +27,7 @@ Before we start with edge detection we apply some preprocessing to the image
 
 What we will do in our implementation is apply the kernel and if the value is above the threshold, usually 50, we will make it white and black otherwise. This approach will make visualizing the edges detected easier:
 
-![Laplacian](../../../Snippets/C++/CV/edge%20detection/Laplacian.png)
+<img src="../../../Snippets/C++/CV/edge%20detection/Laplacian.png" height="300" alt="Laplacian">
 
 ## Sobel
 
@@ -35,4 +35,6 @@ Since our goal is to detect a car plate image, we will go about this in a differ
 
 We implement a function that will either apply Gx or Gy depending on the given parameter, and here's the results:
 
-![sobel](../../../Snippets/C++/CV/edge%20detection/sobel.png)
+<img src="../../../Snippets/C++/CV/edge%20detection/sobel.png" height="300" alt="sobel">
+
+We can see that vertical edge detection is better than an all edge detection in locating characters because of their nature.
