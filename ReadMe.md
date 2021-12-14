@@ -57,8 +57,6 @@ subcategories
    - SQLite3
    - MySQL server
 
-9. [Regular Expressions](Regular%20Expressions)
-
-10. [Virtual Instruments](Virtual%20Instruments)
+9.  [Virtual Instruments](Virtual%20Instruments)
 
     - NI LabView
